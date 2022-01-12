@@ -129,6 +129,7 @@ hr{
     }
     .player, .blog, .course {
         flex-direction: column;
+        
     }
      
 }
